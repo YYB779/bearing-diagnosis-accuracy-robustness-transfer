@@ -34,4 +34,4 @@ Algorithm seeds, repeated acquisitions and patches are not independent physical 
 
 [MIT](LICENSE) applies to first-party software. It does not grant MIT rights in datasets, derived data, model weights or external dependencies; [provider terms](THIRD_PARTY.md) remain applicable. In particular, covered Paderborn material retains the producer's CC BY-NC 4.0 conditions.
 
-Use [CITATION.cff](CITATION.cff) to cite the software and cite the original data providers. No software DOI is claimed until a DOI-assigning repository deposit is actually published. The repository contains no journal reviewer report, response letter or editorial correspondence.
+Use [CITATION.cff](CITATION.cff) to cite the software and cite the original data providers. The DOI-assigned software record is [10.5281/zenodo.24427161](https://doi.org/10.5281/zenodo.24427161); the DOI represents published Zenodo version 1.0.3, which contains the v1.0.2 software archive, figure sources, repository snapshot and revision-strengthening package. The repository contains no journal reviewer report, response letter or editorial correspondence.
