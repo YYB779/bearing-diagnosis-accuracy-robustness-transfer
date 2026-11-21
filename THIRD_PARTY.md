@@ -1,6 +1,6 @@
 # Public licence clarification
 
-The author selected MIT for first-party software on 21 November 2026. The repository-root LICENSE supersedes the historical paragraph below that says the software licence was pending. No MIT grant is made for data, data-derived materials, model weights, external QA utilities or dependencies. Original producer terms remain applicable. No software DOI has yet been asserted by these preparation files.
+The author selected MIT for first-party software on 21 November 2026. The repository-root LICENSE supersedes the historical paragraph below that says the software licence was pending. No MIT grant is made for data, data-derived materials, model weights, external QA utilities or dependencies. Original producer terms remain applicable. The first DOI-assigned software record is [10.5281/zenodo.24427161](https://doi.org/10.5281/zenodo.24427161); its files and scope are described on the record page.
 
 The following source-attribution document is preserved from the original software archive.
 
@@ -8,7 +8,7 @@ The following source-attribution document is preserved from the original softwar
 
 ## The authors' software
 
-The Python pipeline, revision analyses and instructions prepared for this article are provided for author review. The author will select the software reuse licence when authorizing the public deposit. The manuscript's software DOI is assigned to the public version by its repository. None has been assigned to this review copy.
+The Python pipeline, revision analyses and instructions prepared for this article are publicly archived. The first-party software is MIT licensed; the published Zenodo v1.0.3 record is [10.5281/zenodo.24427161](https://doi.org/10.5281/zenodo.24427161).
 
 ## Measurements and derived materials
 
@@ -23,4 +23,3 @@ Data-source conditions continue to apply to covered materials independently of a
 ## External software
 
 The optional MFoS2E benchmark imports upstream code from the pinned [MFoS-2-E revision](https://github.com/SRISLAB/MFoS-2-E/tree/bd84cf9168b44b7ad56a20859e0a40438a005549). The source manifest lists the required names, download URLs and SHA-256 values. The archive supplies the study adapter and computed tables. The ClassBD pilot uses the study's paper-guided implementation. The upstream [ClassBD revision](https://github.com/asdvfghg/ClassBD/tree/08530497e388ed691936f15d6c55267f277ed270) is credited in the vendor provenance manifest. Both vendor directories contain provenance only. Dependencies installed from package managers retain their own licences.
-
