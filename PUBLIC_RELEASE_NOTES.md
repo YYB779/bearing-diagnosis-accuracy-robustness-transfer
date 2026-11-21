@@ -15,4 +15,4 @@ No model checkpoint or numerical CSV is modified by the public conversion. The t
 
 The base README's eight-figure numbering is historical. The current figure asset supplies seven main figures and S1–S16. The public source-only snapshot supplies 122 Python files in their component-relative directories; execution requires the complete assets.
 
-This release preparation contains no DOI assertion and no publication acceptance claim. The repository is the software-access location; journal submission remains a separate author action.
+The software and figure-source materials are archived in the published Zenodo record [10.5281/zenodo.24427161](https://doi.org/10.5281/zenodo.24427161), version 1.0.3, which retains the v1.0.2 software archive and includes the repository snapshot and revision-strengthening package. The GitHub release additionally provides the HUST weighting-analysis archive; journal submission remains a separate author action.
