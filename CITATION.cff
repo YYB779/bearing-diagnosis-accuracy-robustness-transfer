@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software and the original data providers when using the research pipeline."
+type: software
+title: "Separating diagnostic accuracy from robustness and transfer in bearing fault diagnosis: software and computational evidence"
+authors:
+  - family-names: Yang
+    given-names: Zongyuan
+repository-code: "https://github.com/YYB779/bearing-diagnosis-accuracy-robustness-transfer"
+version: "v2026.11.21"
+license: MIT
